@@ -54,10 +54,10 @@ d1b88fee-8078-46bc-aaed-df7196183f5f==socks5://proxy.com:1080
 
 ## Join Us
 
-Ready to start your journey with GetGrass WebUI? [Sign up](https://app.getgrass.io/register/?referralCode=I03C7kFL7tLZUH6) using our referral link and let's grow together!
+Ready to start your journey with GetGrass WebUI? [Sign up] (https://app.getgrass.io/register/?referralCode=brGmv_OSidk-gWF) using our referral link and let's grow together!
 
 ## Support Us
 
-Love our work? You can support us by sending your donations to the following Ethereum address: `0xE0CF9bc10C3589A4713A6Ff10e34964c089B0b52`. Your support is greatly appreciated!
+Love our work? You can support us by sending your donations to the following Ethereum address: `0xC4C8E436999a00E7c41EF28B538148c7Fbeec879`. Your support is greatly appreciated!
 
 This README provides more detailed information about your project, including how to run the application and the format of the `account.txt` file. It also includes a call to action for users to sign up using your referral link and a request for donations to your Ethereum address.
